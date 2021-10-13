@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\bin\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\bin\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\bin\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\bin\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\bin\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\bin\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\obj\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\obj\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\obj\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\obj\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\obj\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\obj\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_3EmployeeTest\obj\Debug\netcoreapp3.1\Lesson_01_3EmployeeTest.genruntimeconfig.cache

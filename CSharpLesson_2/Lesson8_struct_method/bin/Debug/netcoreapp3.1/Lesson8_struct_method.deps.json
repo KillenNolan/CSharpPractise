@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson8_struct_method/1.0.0": {
+        "runtime": {
+          "Lesson8_struct_method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson8_struct_method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

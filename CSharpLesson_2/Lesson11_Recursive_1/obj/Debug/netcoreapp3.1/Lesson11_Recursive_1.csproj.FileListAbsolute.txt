@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\bin\Debug\netcoreapp3.1\Lesson11_Recursive_1.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\bin\Debug\netcoreapp3.1\Lesson11_Recursive_1.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\bin\Debug\netcoreapp3.1\Lesson11_Recursive_1.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\bin\Debug\netcoreapp3.1\Lesson11_Recursive_1.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\bin\Debug\netcoreapp3.1\Lesson11_Recursive_1.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\bin\Debug\netcoreapp3.1\Lesson11_Recursive_1.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\obj\Debug\netcoreapp3.1\Lesson11_Recursive_1.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\obj\Debug\netcoreapp3.1\Lesson11_Recursive_1.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\obj\Debug\netcoreapp3.1\Lesson11_Recursive_1.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\obj\Debug\netcoreapp3.1\Lesson11_Recursive_1.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\obj\Debug\netcoreapp3.1\Lesson11_Recursive_1.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\obj\Debug\netcoreapp3.1\Lesson11_Recursive_1.genruntimeconfig.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson11_Recursive_1\obj\Debug\netcoreapp3.1\Lesson11_Recursive_1.csproj.AssemblyReference.cache

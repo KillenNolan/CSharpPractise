@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\bin\Debug\netcoreapp3.1\Lesson_05_2Monster.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\bin\Debug\netcoreapp3.1\Lesson_05_2Monster.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\bin\Debug\netcoreapp3.1\Lesson_05_2Monster.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\bin\Debug\netcoreapp3.1\Lesson_05_2Monster.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\bin\Debug\netcoreapp3.1\Lesson_05_2Monster.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\bin\Debug\netcoreapp3.1\Lesson_05_2Monster.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\obj\Debug\netcoreapp3.1\Lesson_05_2Monster.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\obj\Debug\netcoreapp3.1\Lesson_05_2Monster.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\obj\Debug\netcoreapp3.1\Lesson_05_2Monster.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\obj\Debug\netcoreapp3.1\Lesson_05_2Monster.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\obj\Debug\netcoreapp3.1\Lesson_05_2Monster.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\obj\Debug\netcoreapp3.1\Lesson_05_2Monster.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_2Monster\obj\Debug\netcoreapp3.1\Lesson_05_2Monster.genruntimeconfig.cache

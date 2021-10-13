@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\bin\Debug\netcoreapp3.1\Lesson_01_InheritPractice.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\bin\Debug\netcoreapp3.1\Lesson_01_InheritPractice.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\bin\Debug\netcoreapp3.1\Lesson_01_InheritPractice.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\bin\Debug\netcoreapp3.1\Lesson_01_InheritPractice.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\bin\Debug\netcoreapp3.1\Lesson_01_InheritPractice.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\bin\Debug\netcoreapp3.1\Lesson_01_InheritPractice.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\obj\Debug\netcoreapp3.1\Lesson_01_InheritPractice.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\obj\Debug\netcoreapp3.1\Lesson_01_InheritPractice.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\obj\Debug\netcoreapp3.1\Lesson_01_InheritPractice.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\obj\Debug\netcoreapp3.1\Lesson_01_InheritPractice.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\obj\Debug\netcoreapp3.1\Lesson_01_InheritPractice.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\obj\Debug\netcoreapp3.1\Lesson_01_InheritPractice.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritPractice\obj\Debug\netcoreapp3.1\Lesson_01_InheritPractice.genruntimeconfig.cache

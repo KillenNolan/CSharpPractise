@@ -1,0 +1,12 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\bin\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\bin\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\bin\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\bin\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\bin\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\bin\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\obj\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\obj\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\obj\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\obj\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\obj\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_3_GenericDelegate\obj\Debug\netcoreapp3.1\Lesson_3_GenericDelegate.genruntimeconfig.cache

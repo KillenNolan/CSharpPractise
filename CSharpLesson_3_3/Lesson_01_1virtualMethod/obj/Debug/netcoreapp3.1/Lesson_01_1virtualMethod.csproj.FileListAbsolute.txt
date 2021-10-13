@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\bin\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\bin\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\bin\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\bin\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\bin\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\bin\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\obj\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\obj\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\obj\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\obj\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\obj\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\obj\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_1virtualMethod\obj\Debug\netcoreapp3.1\Lesson_01_1virtualMethod.genruntimeconfig.cache

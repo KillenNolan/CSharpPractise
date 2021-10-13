@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\bin\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\bin\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\bin\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\bin\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\bin\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\bin\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\obj\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\obj\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\obj\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\obj\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\obj\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\obj\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Leeson_3_Observer\obj\Debug\netcoreapp3.1\Lesson_3_GenericObserver_2.genruntimeconfig.cache

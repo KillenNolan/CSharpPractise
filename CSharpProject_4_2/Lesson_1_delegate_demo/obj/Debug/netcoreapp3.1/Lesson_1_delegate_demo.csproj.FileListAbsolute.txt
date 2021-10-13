@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\bin\Debug\netcoreapp3.1\Lesson_1_delegate_demo.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\bin\Debug\netcoreapp3.1\Lesson_1_delegate_demo.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\bin\Debug\netcoreapp3.1\Lesson_1_delegate_demo.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\bin\Debug\netcoreapp3.1\Lesson_1_delegate_demo.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\bin\Debug\netcoreapp3.1\Lesson_1_delegate_demo.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\bin\Debug\netcoreapp3.1\Lesson_1_delegate_demo.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\obj\Debug\netcoreapp3.1\Lesson_1_delegate_demo.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\obj\Debug\netcoreapp3.1\Lesson_1_delegate_demo.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\obj\Debug\netcoreapp3.1\Lesson_1_delegate_demo.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\obj\Debug\netcoreapp3.1\Lesson_1_delegate_demo.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\obj\Debug\netcoreapp3.1\Lesson_1_delegate_demo.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\obj\Debug\netcoreapp3.1\Lesson_1_delegate_demo.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_1_delegate_demo\obj\Debug\netcoreapp3.1\Lesson_1_delegate_demo.genruntimeconfig.cache

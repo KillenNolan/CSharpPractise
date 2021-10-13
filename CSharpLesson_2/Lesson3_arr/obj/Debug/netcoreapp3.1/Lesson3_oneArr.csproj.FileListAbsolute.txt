@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\bin\Debug\netcoreapp3.1\Lesson3_oneArr.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\bin\Debug\netcoreapp3.1\Lesson3_oneArr.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\bin\Debug\netcoreapp3.1\Lesson3_oneArr.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\bin\Debug\netcoreapp3.1\Lesson3_oneArr.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\bin\Debug\netcoreapp3.1\Lesson3_oneArr.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\bin\Debug\netcoreapp3.1\Lesson3_oneArr.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\obj\Debug\netcoreapp3.1\Lesson3_oneArr.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\obj\Debug\netcoreapp3.1\Lesson3_oneArr.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\obj\Debug\netcoreapp3.1\Lesson3_oneArr.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\obj\Debug\netcoreapp3.1\Lesson3_oneArr.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\obj\Debug\netcoreapp3.1\Lesson3_oneArr.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\obj\Debug\netcoreapp3.1\Lesson3_oneArr.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_arr\obj\Debug\netcoreapp3.1\Lesson3_oneArr.genruntimeconfig.cache

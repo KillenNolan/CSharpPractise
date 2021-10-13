@@ -1,0 +1,12 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\bin\Debug\netcoreapp3.1\Lesson_09_dic.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\bin\Debug\netcoreapp3.1\Lesson_09_dic.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\bin\Debug\netcoreapp3.1\Lesson_09_dic.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\bin\Debug\netcoreapp3.1\Lesson_09_dic.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\bin\Debug\netcoreapp3.1\Lesson_09_dic.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\bin\Debug\netcoreapp3.1\Lesson_09_dic.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\obj\Debug\netcoreapp3.1\Lesson_09_dic.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\obj\Debug\netcoreapp3.1\Lesson_09_dic.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\obj\Debug\netcoreapp3.1\Lesson_09_dic.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\obj\Debug\netcoreapp3.1\Lesson_09_dic.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\obj\Debug\netcoreapp3.1\Lesson_09_dic.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_09_dic\obj\Debug\netcoreapp3.1\Lesson_09_dic.genruntimeconfig.cache

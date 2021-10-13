@@ -1,0 +1,12 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\bin\Debug\netcoreapp3.1\Lesson8_struct_method.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\bin\Debug\netcoreapp3.1\Lesson8_struct_method.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\bin\Debug\netcoreapp3.1\Lesson8_struct_method.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\bin\Debug\netcoreapp3.1\Lesson8_struct_method.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\bin\Debug\netcoreapp3.1\Lesson8_struct_method.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\bin\Debug\netcoreapp3.1\Lesson8_struct_method.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\obj\Debug\netcoreapp3.1\Lesson8_struct_method.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\obj\Debug\netcoreapp3.1\Lesson8_struct_method.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\obj\Debug\netcoreapp3.1\Lesson8_struct_method.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\obj\Debug\netcoreapp3.1\Lesson8_struct_method.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\obj\Debug\netcoreapp3.1\Lesson8_struct_method.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson8_struct_method\obj\Debug\netcoreapp3.1\Lesson8_struct_method.genruntimeconfig.cache

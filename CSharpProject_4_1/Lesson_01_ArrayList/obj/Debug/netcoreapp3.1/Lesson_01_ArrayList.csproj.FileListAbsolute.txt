@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\bin\Debug\netcoreapp3.1\Lesson_01_ArrayList.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\bin\Debug\netcoreapp3.1\Lesson_01_ArrayList.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\bin\Debug\netcoreapp3.1\Lesson_01_ArrayList.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\bin\Debug\netcoreapp3.1\Lesson_01_ArrayList.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\bin\Debug\netcoreapp3.1\Lesson_01_ArrayList.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\bin\Debug\netcoreapp3.1\Lesson_01_ArrayList.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\obj\Debug\netcoreapp3.1\Lesson_01_ArrayList.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\obj\Debug\netcoreapp3.1\Lesson_01_ArrayList.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\obj\Debug\netcoreapp3.1\Lesson_01_ArrayList.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\obj\Debug\netcoreapp3.1\Lesson_01_ArrayList.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\obj\Debug\netcoreapp3.1\Lesson_01_ArrayList.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\obj\Debug\netcoreapp3.1\Lesson_01_ArrayList.genruntimeconfig.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_01_ArrayList\obj\Debug\netcoreapp3.1\Lesson_01_ArrayList.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\bin\Debug\netcoreapp3.1\Lesson5_if.exe
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\bin\Debug\netcoreapp3.1\Lesson5_if.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\bin\Debug\netcoreapp3.1\Lesson5_if.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\bin\Debug\netcoreapp3.1\Lesson5_if.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\bin\Debug\netcoreapp3.1\Lesson5_if.dll
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\bin\Debug\netcoreapp3.1\Lesson5_if.pdb
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\obj\Debug\netcoreapp3.1\Lesson5_if.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\obj\Debug\netcoreapp3.1\Lesson5_if.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\obj\Debug\netcoreapp3.1\Lesson5_if.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\obj\Debug\netcoreapp3.1\Lesson5_if.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\obj\Debug\netcoreapp3.1\Lesson5_if.dll
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\obj\Debug\netcoreapp3.1\Lesson5_if.pdb
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_if\obj\Debug\netcoreapp3.1\Lesson5_if.genruntimeconfig.cache

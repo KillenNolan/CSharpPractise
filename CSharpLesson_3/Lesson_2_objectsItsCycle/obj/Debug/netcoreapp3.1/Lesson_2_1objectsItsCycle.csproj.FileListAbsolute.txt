@@ -1,0 +1,12 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\bin\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\bin\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\bin\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\bin\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\bin\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\bin\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\obj\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\obj\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\obj\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\obj\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\obj\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_2_objectsItsCycle\obj\Debug\netcoreapp3.1\Lesson_2_1objectsItsCycle.genruntimeconfig.cache

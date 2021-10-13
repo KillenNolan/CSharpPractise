@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_InsertionSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_3InsertionSort.genruntimeconfig.cache

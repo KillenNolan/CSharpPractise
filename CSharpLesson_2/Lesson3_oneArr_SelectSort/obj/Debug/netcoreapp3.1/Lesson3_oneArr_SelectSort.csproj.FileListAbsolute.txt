@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.genruntimeconfig.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_SelectSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_SelectSort.csproj.AssemblyReference.cache

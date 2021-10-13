@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\bin\Debug\netcoreapp3.1\Lesson_08_ICompareble.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\bin\Debug\netcoreapp3.1\Lesson_08_ICompareble.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\bin\Debug\netcoreapp3.1\Lesson_08_ICompareble.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\bin\Debug\netcoreapp3.1\Lesson_08_ICompareble.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\bin\Debug\netcoreapp3.1\Lesson_08_ICompareble.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\bin\Debug\netcoreapp3.1\Lesson_08_ICompareble.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\obj\Debug\netcoreapp3.1\Lesson_08_ICompareble.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\obj\Debug\netcoreapp3.1\Lesson_08_ICompareble.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\obj\Debug\netcoreapp3.1\Lesson_08_ICompareble.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\obj\Debug\netcoreapp3.1\Lesson_08_ICompareble.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\obj\Debug\netcoreapp3.1\Lesson_08_ICompareble.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\obj\Debug\netcoreapp3.1\Lesson_08_ICompareble.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_08_ICompareble\obj\Debug\netcoreapp3.1\Lesson_08_ICompareble.genruntimeconfig.cache

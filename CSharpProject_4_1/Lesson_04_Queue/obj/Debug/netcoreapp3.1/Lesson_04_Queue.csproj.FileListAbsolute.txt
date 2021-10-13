@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\bin\Debug\netcoreapp3.1\Lesson_04_Queue.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\bin\Debug\netcoreapp3.1\Lesson_04_Queue.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\bin\Debug\netcoreapp3.1\Lesson_04_Queue.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\bin\Debug\netcoreapp3.1\Lesson_04_Queue.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\bin\Debug\netcoreapp3.1\Lesson_04_Queue.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\bin\Debug\netcoreapp3.1\Lesson_04_Queue.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\obj\Debug\netcoreapp3.1\Lesson_04_Queue.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\obj\Debug\netcoreapp3.1\Lesson_04_Queue.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\obj\Debug\netcoreapp3.1\Lesson_04_Queue.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\obj\Debug\netcoreapp3.1\Lesson_04_Queue.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\obj\Debug\netcoreapp3.1\Lesson_04_Queue.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\obj\Debug\netcoreapp3.1\Lesson_04_Queue.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_1\Lesson_04_Queue\obj\Debug\netcoreapp3.1\Lesson_04_Queue.genruntimeconfig.cache

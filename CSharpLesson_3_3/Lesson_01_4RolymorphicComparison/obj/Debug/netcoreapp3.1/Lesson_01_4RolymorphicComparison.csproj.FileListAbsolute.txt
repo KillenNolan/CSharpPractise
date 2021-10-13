@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\bin\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\bin\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\bin\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\bin\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\bin\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\bin\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\obj\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\obj\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\obj\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\obj\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\obj\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\obj\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_4RolymorphicComparison\obj\Debug\netcoreapp3.1\Lesson_01_4RolymorphicComparison.genruntimeconfig.cache

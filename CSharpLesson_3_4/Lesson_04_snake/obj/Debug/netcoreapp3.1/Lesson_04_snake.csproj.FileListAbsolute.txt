@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\bin\Debug\netcoreapp3.1\Lesson_04_snake.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\bin\Debug\netcoreapp3.1\Lesson_04_snake.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\bin\Debug\netcoreapp3.1\Lesson_04_snake.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\bin\Debug\netcoreapp3.1\Lesson_04_snake.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\bin\Debug\netcoreapp3.1\Lesson_04_snake.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\bin\Debug\netcoreapp3.1\Lesson_04_snake.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\obj\Debug\netcoreapp3.1\Lesson_04_snake.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\obj\Debug\netcoreapp3.1\Lesson_04_snake.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\obj\Debug\netcoreapp3.1\Lesson_04_snake.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\obj\Debug\netcoreapp3.1\Lesson_04_snake.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\obj\Debug\netcoreapp3.1\Lesson_04_snake.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\obj\Debug\netcoreapp3.1\Lesson_04_snake.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_04_snake\obj\Debug\netcoreapp3.1\Lesson_04_snake.genruntimeconfig.cache

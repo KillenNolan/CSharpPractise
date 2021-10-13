@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson_07_List_2Demo1/1.0.0": {
+        "dependencies": {
+          "Lesson_06_Singleton": "1.0.0"
+        },
+        "runtime": {
+          "Lesson_07_List_2Demo1.dll": {}
+        }
+      },
+      "Lesson_06_Singleton/1.0.0": {
+        "runtime": {
+          "Lesson_06_Singleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_07_List_2Demo1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lesson_06_Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

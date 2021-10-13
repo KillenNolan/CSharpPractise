@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\bin\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_oneArr_BubblSort\obj\Debug\netcoreapp3.1\Lesson3_oneArr_BubblSort.genruntimeconfig.cache

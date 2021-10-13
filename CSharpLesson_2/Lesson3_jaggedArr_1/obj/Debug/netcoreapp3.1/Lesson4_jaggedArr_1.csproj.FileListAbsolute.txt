@@ -1,0 +1,12 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\bin\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\bin\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\bin\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\bin\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\bin\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\bin\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\obj\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\obj\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\obj\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\obj\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\obj\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson3_jaggedArr_1\obj\Debug\netcoreapp3.1\Lesson4_jaggedArr_1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\bin\Debug\netcoreapp3.1\Lesson5_practice.exe
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\bin\Debug\netcoreapp3.1\Lesson5_practice.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\bin\Debug\netcoreapp3.1\Lesson5_practice.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\bin\Debug\netcoreapp3.1\Lesson5_practice.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\bin\Debug\netcoreapp3.1\Lesson5_practice.dll
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\bin\Debug\netcoreapp3.1\Lesson5_practice.pdb
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\obj\Debug\netcoreapp3.1\Lesson5_practice.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\obj\Debug\netcoreapp3.1\Lesson5_practice.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\obj\Debug\netcoreapp3.1\Lesson5_practice.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\obj\Debug\netcoreapp3.1\Lesson5_practice.dll
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\obj\Debug\netcoreapp3.1\Lesson5_practice.pdb
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\obj\Debug\netcoreapp3.1\Lesson5_practice.genruntimeconfig.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_practice\obj\Debug\netcoreapp3.1\Lesson5_practice.csproj.AssemblyReference.cache

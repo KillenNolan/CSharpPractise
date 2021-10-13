@@ -1,0 +1,12 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\bin\Debug\netcoreapp3.1\Lesson_03_1ToString.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\bin\Debug\netcoreapp3.1\Lesson_03_1ToString.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\bin\Debug\netcoreapp3.1\Lesson_03_1ToString.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\bin\Debug\netcoreapp3.1\Lesson_03_1ToString.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\bin\Debug\netcoreapp3.1\Lesson_03_1ToString.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\bin\Debug\netcoreapp3.1\Lesson_03_1ToString.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\obj\Debug\netcoreapp3.1\Lesson_03_1ToString.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\obj\Debug\netcoreapp3.1\Lesson_03_1ToString.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\obj\Debug\netcoreapp3.1\Lesson_03_1ToString.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\obj\Debug\netcoreapp3.1\Lesson_03_1ToString.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\obj\Debug\netcoreapp3.1\Lesson_03_1ToString.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_03_1ToString\obj\Debug\netcoreapp3.1\Lesson_03_1ToString.genruntimeconfig.cache

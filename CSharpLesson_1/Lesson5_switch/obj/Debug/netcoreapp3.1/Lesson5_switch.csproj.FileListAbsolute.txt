@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\bin\Debug\netcoreapp3.1\Lesson5_switch.exe
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\bin\Debug\netcoreapp3.1\Lesson5_switch.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\bin\Debug\netcoreapp3.1\Lesson5_switch.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\bin\Debug\netcoreapp3.1\Lesson5_switch.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\bin\Debug\netcoreapp3.1\Lesson5_switch.dll
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\bin\Debug\netcoreapp3.1\Lesson5_switch.pdb
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\obj\Debug\netcoreapp3.1\Lesson5_switch.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\obj\Debug\netcoreapp3.1\Lesson5_switch.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\obj\Debug\netcoreapp3.1\Lesson5_switch.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\obj\Debug\netcoreapp3.1\Lesson5_switch.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\obj\Debug\netcoreapp3.1\Lesson5_switch.dll
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\obj\Debug\netcoreapp3.1\Lesson5_switch.pdb
+C:\Killen\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson5_switch\obj\Debug\netcoreapp3.1\Lesson5_switch.genruntimeconfig.cache

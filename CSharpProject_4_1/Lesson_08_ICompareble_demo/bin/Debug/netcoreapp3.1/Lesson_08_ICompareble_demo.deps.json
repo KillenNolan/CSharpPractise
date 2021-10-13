@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson_08_ICompareble_demo/1.0.0": {
+        "dependencies": {
+          "Lesson_06_Singleton": "1.0.0"
+        },
+        "runtime": {
+          "Lesson_08_ICompareble_demo.dll": {}
+        }
+      },
+      "Lesson_06_Singleton/1.0.0": {
+        "runtime": {
+          "Lesson_06_Singleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_08_ICompareble_demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lesson_06_Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\bin\Debug\netcoreapp3.1\Lesson_01_2DuckTest.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\bin\Debug\netcoreapp3.1\Lesson_01_2DuckTest.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\bin\Debug\netcoreapp3.1\Lesson_01_2DuckTest.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\bin\Debug\netcoreapp3.1\Lesson_01_2DuckTest.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\bin\Debug\netcoreapp3.1\Lesson_01_2DuckTest.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\bin\Debug\netcoreapp3.1\Lesson_01_2DuckTest.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\obj\Debug\netcoreapp3.1\Lesson_01_2DuckTest.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\obj\Debug\netcoreapp3.1\Lesson_01_2DuckTest.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\obj\Debug\netcoreapp3.1\Lesson_01_2DuckTest.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\obj\Debug\netcoreapp3.1\Lesson_01_2DuckTest.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\obj\Debug\netcoreapp3.1\Lesson_01_2DuckTest.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\obj\Debug\netcoreapp3.1\Lesson_01_2DuckTest.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_01_2DuckTest\obj\Debug\netcoreapp3.1\Lesson_01_2DuckTest.genruntimeconfig.cache

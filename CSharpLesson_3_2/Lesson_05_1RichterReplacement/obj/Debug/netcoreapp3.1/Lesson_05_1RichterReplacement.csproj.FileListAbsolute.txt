@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\bin\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\bin\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\bin\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\bin\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\bin\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\bin\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\obj\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\obj\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\obj\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\obj\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\obj\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\obj\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_05_1RichterReplacement\obj\Debug\netcoreapp3.1\Lesson_05_1RichterReplacement.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\bin\Debug\netcoreapp3.1\Lesson1_enum.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\bin\Debug\netcoreapp3.1\Lesson1_enum.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\bin\Debug\netcoreapp3.1\Lesson1_enum.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\bin\Debug\netcoreapp3.1\Lesson1_enum.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\bin\Debug\netcoreapp3.1\Lesson1_enum.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\bin\Debug\netcoreapp3.1\Lesson1_enum.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\obj\Debug\netcoreapp3.1\Lesson1_enum.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\obj\Debug\netcoreapp3.1\Lesson1_enum.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\obj\Debug\netcoreapp3.1\Lesson1_enum.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\obj\Debug\netcoreapp3.1\Lesson1_enum.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\obj\Debug\netcoreapp3.1\Lesson1_enum.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\obj\Debug\netcoreapp3.1\Lesson1_enum.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson1_enum\obj\Debug\netcoreapp3.1\Lesson1_enum.genruntimeconfig.cache

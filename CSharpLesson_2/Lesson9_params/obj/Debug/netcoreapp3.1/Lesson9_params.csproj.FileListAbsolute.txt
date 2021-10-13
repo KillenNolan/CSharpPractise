@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\bin\Debug\netcoreapp3.1\Lesson9_params.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\bin\Debug\netcoreapp3.1\Lesson9_params.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\bin\Debug\netcoreapp3.1\Lesson9_params.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\bin\Debug\netcoreapp3.1\Lesson9_params.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\bin\Debug\netcoreapp3.1\Lesson9_params.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\bin\Debug\netcoreapp3.1\Lesson9_params.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\obj\Debug\netcoreapp3.1\Lesson9_params.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\obj\Debug\netcoreapp3.1\Lesson9_params.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\obj\Debug\netcoreapp3.1\Lesson9_params.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\obj\Debug\netcoreapp3.1\Lesson9_params.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\obj\Debug\netcoreapp3.1\Lesson9_params.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\obj\Debug\netcoreapp3.1\Lesson9_params.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_2\Lesson9_params\obj\Debug\netcoreapp3.1\Lesson9_params.genruntimeconfig.cache

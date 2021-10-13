@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\bin\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\bin\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\bin\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\bin\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\bin\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\bin\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\obj\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\obj\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\obj\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\obj\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\obj\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\obj\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_2\Lesson_01_InheritanceDefinition\obj\Debug\netcoreapp3.1\Lesson_01_InheritanceDefinition.genruntimeconfig.cache

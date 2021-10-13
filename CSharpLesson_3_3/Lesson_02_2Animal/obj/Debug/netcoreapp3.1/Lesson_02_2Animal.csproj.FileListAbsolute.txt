@@ -1,0 +1,12 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\bin\Debug\netcoreapp3.1\Lesson_02_2Animal.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\bin\Debug\netcoreapp3.1\Lesson_02_2Animal.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\bin\Debug\netcoreapp3.1\Lesson_02_2Animal.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\bin\Debug\netcoreapp3.1\Lesson_02_2Animal.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\bin\Debug\netcoreapp3.1\Lesson_02_2Animal.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\bin\Debug\netcoreapp3.1\Lesson_02_2Animal.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\obj\Debug\netcoreapp3.1\Lesson_02_2Animal.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\obj\Debug\netcoreapp3.1\Lesson_02_2Animal.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\obj\Debug\netcoreapp3.1\Lesson_02_2Animal.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\obj\Debug\netcoreapp3.1\Lesson_02_2Animal.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\obj\Debug\netcoreapp3.1\Lesson_02_2Animal.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_3\Lesson_02_2Animal\obj\Debug\netcoreapp3.1\Lesson_02_2Animal.genruntimeconfig.cache

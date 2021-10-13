@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lesson_class_4objects</id>
+    <version>1.0.0</version>
+    <authors>Lesson_class_4objects</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_class_4objects\bin\Debug\netcoreapp3.1\Lesson_class_4objects.runtimeconfig.json" target="lib\netcoreapp3.1\Lesson_class_4objects.runtimeconfig.json" />
+    <file src="C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3\Lesson_class_4objects\bin\Debug\netcoreapp3.1\Lesson_class_4objects.dll" target="lib\netcoreapp3.1\Lesson_class_4objects.dll" />
+  </files>
+</package>

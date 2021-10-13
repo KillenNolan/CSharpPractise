@@ -1,0 +1,13 @@
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\bin\Debug\netcoreapp3.1\Lesson_helloworld_1.exe
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\bin\Debug\netcoreapp3.1\Lesson_helloworld_1.deps.json
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\bin\Debug\netcoreapp3.1\Lesson_helloworld_1.runtimeconfig.json
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\bin\Debug\netcoreapp3.1\Lesson_helloworld_1.runtimeconfig.dev.json
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\bin\Debug\netcoreapp3.1\Lesson_helloworld_1.dll
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\bin\Debug\netcoreapp3.1\Lesson_helloworld_1.pdb
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\obj\Debug\netcoreapp3.1\Lesson_helloworld_1.csproj.AssemblyReference.cache
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\obj\Debug\netcoreapp3.1\Lesson_helloworld_1.AssemblyInfoInputs.cache
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\obj\Debug\netcoreapp3.1\Lesson_helloworld_1.AssemblyInfo.cs
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\obj\Debug\netcoreapp3.1\Lesson_helloworld_1.csproj.CoreCompileInputs.cache
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\obj\Debug\netcoreapp3.1\Lesson_helloworld_1.dll
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\obj\Debug\netcoreapp3.1\Lesson_helloworld_1.pdb
+D:\WEB_CODE\WanMen\CSharp\CSharpLesson_1\Lesson_helloworld_1\obj\Debug\netcoreapp3.1\Lesson_helloworld_1.genruntimeconfig.cache

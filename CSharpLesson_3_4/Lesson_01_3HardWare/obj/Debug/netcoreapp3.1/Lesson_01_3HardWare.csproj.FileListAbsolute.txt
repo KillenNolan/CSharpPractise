@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\bin\Debug\netcoreapp3.1\Lesson_01_3HardWare.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\bin\Debug\netcoreapp3.1\Lesson_01_3HardWare.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\bin\Debug\netcoreapp3.1\Lesson_01_3HardWare.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\bin\Debug\netcoreapp3.1\Lesson_01_3HardWare.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\bin\Debug\netcoreapp3.1\Lesson_01_3HardWare.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\bin\Debug\netcoreapp3.1\Lesson_01_3HardWare.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\obj\Debug\netcoreapp3.1\Lesson_01_3HardWare.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\obj\Debug\netcoreapp3.1\Lesson_01_3HardWare.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\obj\Debug\netcoreapp3.1\Lesson_01_3HardWare.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\obj\Debug\netcoreapp3.1\Lesson_01_3HardWare.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\obj\Debug\netcoreapp3.1\Lesson_01_3HardWare.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\obj\Debug\netcoreapp3.1\Lesson_01_3HardWare.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_3_4\Lesson_01_3HardWare\obj\Debug\netcoreapp3.1\Lesson_01_3HardWare.genruntimeconfig.cache

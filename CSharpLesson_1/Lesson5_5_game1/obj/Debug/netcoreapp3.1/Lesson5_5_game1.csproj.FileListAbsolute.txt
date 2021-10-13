@@ -1,0 +1,13 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\bin\Debug\netcoreapp3.1\Lesson5_5_game1.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\bin\Debug\netcoreapp3.1\Lesson5_5_game1.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\bin\Debug\netcoreapp3.1\Lesson5_5_game1.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\bin\Debug\netcoreapp3.1\Lesson5_5_game1.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\bin\Debug\netcoreapp3.1\Lesson5_5_game1.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\bin\Debug\netcoreapp3.1\Lesson5_5_game1.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\obj\Debug\netcoreapp3.1\Lesson5_5_game1.csproj.AssemblyReference.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\obj\Debug\netcoreapp3.1\Lesson5_5_game1.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\obj\Debug\netcoreapp3.1\Lesson5_5_game1.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\obj\Debug\netcoreapp3.1\Lesson5_5_game1.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\obj\Debug\netcoreapp3.1\Lesson5_5_game1.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\obj\Debug\netcoreapp3.1\Lesson5_5_game1.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpLesson_1\Lesson5_5_game1\obj\Debug\netcoreapp3.1\Lesson5_5_game1.genruntimeconfig.cache

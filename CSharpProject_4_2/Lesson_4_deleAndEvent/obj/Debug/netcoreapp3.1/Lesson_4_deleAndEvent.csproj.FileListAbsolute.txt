@@ -1,0 +1,12 @@
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\bin\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.exe
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\bin\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.deps.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\bin\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.runtimeconfig.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\bin\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.runtimeconfig.dev.json
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\bin\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\bin\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\obj\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.AssemblyInfoInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\obj\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.AssemblyInfo.cs
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\obj\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.csproj.CoreCompileInputs.cache
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\obj\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.dll
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\obj\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.pdb
+C:\Killen\WEB_CODE\WanMen\CSharpProject\CSharpProject_4_2\Lesson_4_deleAndEvent\obj\Debug\netcoreapp3.1\Lesson_4_deleAndEvent.genruntimeconfig.cache
